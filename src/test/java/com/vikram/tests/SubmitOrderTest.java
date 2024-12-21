@@ -72,8 +72,8 @@ public class SubmitOrderTest extends BaseTest {
 //		
 //		// Second data set: another user email, password, and product
 //		HashMap<String,String> map1 = new HashMap<String,String>();
-//		map1.put("email", "shetty@gmail.com");
-//		map1.put("password", "Iamking@000");
+//		map1.put("email", "testvk1@gmail.com");
+//		map1.put("password", "Admin@123?");
 //		map1.put("product", "ADIDAS ORIGINAL");
 //		
 //		// Returning the data sets as a two-dimensional array
@@ -81,7 +81,8 @@ public class SubmitOrderTest extends BaseTest {
 //			{map}, 		// First data set
 //			{map1}};	// Second data set	
 //	}
-	
+	//testvk1@gmail.com
+	//Admin@123?
 
 	//TEST DATA SET - 2 *********************************
 	
@@ -120,7 +121,7 @@ public class SubmitOrderTest extends BaseTest {
 //		// Returning test data in a simple 2D array: each row contains email, password, and product
 //		return new Object[][] {
 //			{"vikki2k6@gmail.com","Admin@123?","ZARA COAT 3"},    // First data set
-//			{"shetty@gmail.com","Iamking@000","ADIDAS ORIGINAL"} // Second data set	
+//			{"testvk1@gmail.com","Admin@123?","ADIDAS ORIGINAL"} // Second data set	
 //	};	
 
 }
